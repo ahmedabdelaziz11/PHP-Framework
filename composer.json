@@ -1,0 +1,12 @@
+{
+    "name": "zizo/phpmvc-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [{
+        "name": "ahmeddev"
+    }],
+    "require": {}
+}
